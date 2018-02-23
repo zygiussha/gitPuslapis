@@ -1,0 +1,13 @@
+<div id="calculatorContainer">
+            Pirmas skaicius <br/>
+            <input id="firstNumber" type="number" /> <br/>
+            Antras skaicius <br/>
+            <input id="secondNumber" type="number" /> <br/>
+            Rezultatas <br/>
+            <input id="result" type="text" readonly /> <br/>
+            <br/>
+            <button id="sumBtn">+</button>
+            <button id="difBtn">-</button>
+            <button id="mulBtn">*</button>
+            <button id="divBtn">/</button>
+        </div>
